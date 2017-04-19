@@ -19,7 +19,8 @@ do local _ = {
     "me",
     "like",
     "rmsg_all",  
-    "leave"  
+    "leave",
+    "fun"
   },
   group  = {
     data = "bot/group.json"
