@@ -25,7 +25,7 @@ do local _ = {
     data = "bot/group.json"
   },
   sudo_users = {
-    202020202, --sudo ایدی شما
+    240870611, --sudo ایدی شما
     0,
     0
   },
@@ -37,5 +37,5 @@ robot = {
 return _
 end
 
---@mafia_cli
---https://github.com/mafia-007
+--@IRANI_CLI
+--https://github.com/ramindel0761/IRANI
