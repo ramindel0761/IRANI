@@ -1,8 +1,8 @@
 --------------------------------------
-## mafia_bot
+## delete_bot
 
-- git clone https://github.com/mafia-007/mafia_cli
-- cd mafia_cli
+- git clone https://github.com/ramindel0761/IRANI.git
+- cd IRANI
 - sh install
 - #edit config.lua, line [28 , 33]
 - ./launch.sh
@@ -13,7 +13,7 @@
 ---------------------------------------
 ---------------------------------------
 ## Error run bot
-- cd mafia_cli
+- cd IRANI
 - killall -9 bash
 - screen ./launch.sh
 ---------------------------------------
@@ -40,8 +40,8 @@
 - Lock ➣ Doc » no
 - Lock ➣ Audio » no
 - Lock ➣ Gif » no
-- mafia_cli
+- delete_bot
 
 --------------------------------------
 
-## [@mafia_cli](https://telegram.me/mafia_cli)
+## [@delete_cli](https://telegram.me/Delete_TM)
