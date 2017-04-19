@@ -1,6 +1,6 @@
 
---Begin Fun.lua By @BeyondTeam
---Special Thx To @To0fan
+--Begin Fun.lua By @deleteTeam
+--Special Thx To @Xx_mrIRANI_xX
 --------------------------------
 
 local function run_bash(str)
@@ -317,7 +317,7 @@ local hash = "gp_lang:"..msg.to.id
 local lang = redis:get(hash)
 if not lang then
 helpfun = [[
-_Beyond Reborn Fun Help Commands:_
+_delete robot Fun Help Commands:_
 
 *!time*
 _Get time in a sticker_
@@ -364,7 +364,7 @@ tdcli.sendMessage(msg.chat_id_, 0, 1, helpfun, 1, 'md')
 else
 
 helpfun = [[
-_راهنمای سرگرمی ربات بیوند:_
+_راهنمای سرگرمی ربات دلیت:_
 
 *ساعت*
 _دریافت ساعت به صورت استیکر_
@@ -466,4 +466,4 @@ command ..	"([Ss]ticker) (.+)$",
 	run = run,
 	}
 
---#by @BeyondTeam :)
+--#by @deleteTeam :)
